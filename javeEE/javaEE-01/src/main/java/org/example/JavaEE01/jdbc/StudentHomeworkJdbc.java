@@ -1,8 +1,7 @@
-package jdbc;
+package org.example.JavaEE01.jdbc;
 
-import module.Homework;
-import module.Student;
-import module.StudentHomework;
+import org.example.JavaEE01.module.Homework;
+import org.example.JavaEE01.module.StudentHomework;
 
 import java.sql.*;
 import java.util.ArrayList;
